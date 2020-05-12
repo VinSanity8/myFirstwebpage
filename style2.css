@@ -1,0 +1,57 @@
+
+
+body,
+html {
+	height: 100%;
+	width: 100%;
+	background: url(farmpic.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+
+h1 {
+	color: blue;
+	font-size: 5rem;
+	text-shadow: 12px 9px 7px #4f8b68;
+}
+
+.brn-chg {
+	padding: 1rem 2rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 200px;
+	text-transform: uppercase;
+}
+.btn-primary {
+	background-color: green;
+	border-color: green;
+}
+
+.btn-primary:hover {
+	background-color: orange;
+	border-color: orange;
+}
+
+.col{
+	border: 2px solid black;
+}
+
+.col-list {
+	color: #f81b1b;
+	font-weight: 500;
+	background-color: #1ed21e80;
+	animation-delay: 1s;
+}
+
+span {
+	text-decoration: underline;
+}
+
+.buffer {
+	height: 25px;
+}
+.btn-two {
+	padding: 1rem 1rem;
+}
